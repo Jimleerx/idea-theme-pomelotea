@@ -1,6 +1,5 @@
 # idea-theme-pomelotea
-A idea theme
-Inspired by With ♥ for Dark.jar 
+A idea theme was nspired by With ♥ for Dark.jar 
 #### Color
 - [x] light(pink)
 - [ ] dark(yellow or orange)
